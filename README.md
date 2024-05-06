@@ -5,6 +5,22 @@ CS302 Final Project
 Supervised by Prof. Matthias Schroeter
 
 ---
+## Project Structure
+
+- **API**
+  - data_tools
+  - extraction_tools
+
+- **Experiments**
+  - All the experiments I've done
+
+- **Demonstration**
+  - Pipeline demonstration with training results
+
+- **Dataset**
+  - Categorized dataset with more than 110 images of 5 categories of Chinese dishes
+
+---
 
 ## Table of Contents
 
