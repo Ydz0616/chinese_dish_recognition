@@ -33,5 +33,6 @@ Supervised by Prof. Matthias Schroeter
     - DNN with BoVW
   - Pre-trained Convolutional Neural Network (CNN) with Image
 
+[Link to GitHub Repository](https://github.com/Ydz0616/chinese_dish_recognition)
 
 
